@@ -1,0 +1,17 @@
+{
+  "name": "mastra-101-lead-gen",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@ai-sdk/google": "^3.0.29",
+    "@google/generative-ai": "^0.24.1",
+    "@mastra/core": "^1.4.0",
+    "@prisma/client": "^7.4.0",
+    "ai": "^6.0.91",
+    "dotenv": "^17.3.1",
+    "postgres": "^3.4.8"
+  },
+  "devDependencies": {
+    "prisma": "^7.4.0"
+  }
+}
